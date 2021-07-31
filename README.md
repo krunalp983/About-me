@@ -1,16 +1,16 @@
-### Hi there 👋
+### Here Is What I'm Working On  👋
 
-<!--
-**krunalp983/krunalp983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+
+
+- 🔭 I’m currently working on ...Cloud Based srvices
+- 🌱 I’m currently learning .....Amazon Web Services
+- 👯 I’m looking to collaborate on ....Taking More Practical Knowledge
+- 🤔 I’m looking for help with ...Internship  or Werk student Opprtunties
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: ...krunal12312@gmail.com
+- 😄 Pronouns: ...He/Him
+- 
 -->
