@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning .....Amazon cloud  Services
 - 👯 I’m looking to collaborate on ....Taking More Practical Knowledge
 - 🤔 I’m looking for help with ...Internship  or Werkstudent Opprtunities
-- 💬 Ask me about ...
+- 💬 Ask me about ...Python.C++,Java,Linux
 - 📫 How to reach me: ...krunal12312@gmail.com
 - 😄 Pronouns: ...He/Him
 - 
