@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently Studyng ...Master's In Informatices
+- 🔭 I’m currently Studying ...Master's In Informatices
 - 🌱 I’m currently learning .....Amazon cloud  Services
 - 👯 I’m looking to collaborate on ....Taking More Practical Knowledge
 - 🤔 I’m looking for help with ...Internship  or Werkstudent Opprtunties
