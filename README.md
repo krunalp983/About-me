@@ -7,10 +7,10 @@
 
 
 - 🔭 I’m currently Studying ...Master's In Informatics
-- 🌱 I’m currently learning .....Amazon cloud  Services,Devops and full stack developing
+- 🌱 I’m currently learning .....Amazon cloud  Services,Devops and containerization 
 - 👯 I’m looking to collaborate on ....Taking More Practical Knowledge
 - 🤔 I’m looking for help with ...Internship  or Thesis Opprtunities
-- 💬 Ask me about ...Python,Java script,HTML,CICD,Git
+- 💬 Ask me about ...Python,Java Script,HTML,CICD,Git,Docker
 - 📫 How to reach me: ...krunal12312@gmail.com
 - 😄 Pronouns: ...He/Him
 - 
