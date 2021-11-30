@@ -13,5 +13,5 @@
 - 💬 Ask me about ...Python,Java Script,HTML,CICD,Git,Docker
 - 📫 How to reach me: ...krunal12312@gmail.com
 - 😄 Pronouns: ...He/Him
-- 
+ 
 -->
