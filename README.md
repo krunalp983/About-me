@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning .....Amazon cloud  Services,Devops and containerization 
 - 👯 I’m looking to collaborate on ....Taking More Practical Knowledge
 - 🤔 I’m looking for help with ...Internship  or Thesis Opprtunities
-- 💬 Ask me about ...Python,Java Script,HTML,CICD,Git,Docker
+- 💬 Ask me about ...Python,HTML,CICD,Git,Docker
 - 📫 How to reach me: ...krunal12312@gmail.com
 - 😄 Pronouns: ...He/Him
  
