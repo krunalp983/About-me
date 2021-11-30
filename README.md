@@ -5,7 +5,7 @@
 
 
 
--🔭I’m currently working as Datascientist in FMCG company
+
 - 🔭 I’m currently Studying ...Master's In Informatics
 - 🌱 I’m currently learning .....Amazon cloud  Services,Devops and containerization 
 - 👯 I’m looking to collaborate on ....Taking More Practical Knowledge
